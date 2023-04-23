@@ -1,0 +1,128 @@
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\MainWindow.g.cs
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.cache
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.lref
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\MainWindow.baml
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.g.resources
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\kamam\Desktop\практика\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\MainWindow.g.cs
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Registracia.g.cs
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.cache
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.lref
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\MainWindow.baml
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Registracia.baml
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.g.resources
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Hello.g.cs
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\Hello.baml
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\AdminWin.g.cs
+C:\Users\kamam\Desktop\курсач\Курсач\Курсач\obj\Debug\AdminWin.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminWin.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Hello.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\MainWindow.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Registracia.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.cache
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.lref
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminWin.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Hello.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\MainWindow.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Registracia.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.g.resources
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\System.Drawing.Common.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач.csproj.CopyComplete
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Captcha.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Captcha.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\EntityFramework.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\EntityFramework.xml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Курсач_Content.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Gost.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Gost.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Oficiant.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\Oficiant.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\System.Drawing.Common.xml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminGostWin.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminLK.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminGostWin.baml
+C:\Users\kamam\Desktop\курсач2\Курсач\Курсач\obj\Debug\AdminLK.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Курсач.pdb
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\EntityFramework.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\System.Drawing.Common.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\EntityFramework.xml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\System.Drawing.Common.xml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminGostWin.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminLK.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminWin.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Captcha.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Gost.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Hello.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\MainWindow.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Oficiant.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Registracia.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач_Content.g.cs
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач_MarkupCompile.cache
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач_MarkupCompile.lref
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminGostWin.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminLK.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\AdminWin.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Captcha.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Gost.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Hello.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\MainWindow.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Oficiant.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Registracia.baml
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.g.resources
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.csproj.CopyComplete
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.exe
+C:\Users\kamam\Desktop\курсач2\Курсовой проект\Курсач\obj\Debug\Курсач.pdb
