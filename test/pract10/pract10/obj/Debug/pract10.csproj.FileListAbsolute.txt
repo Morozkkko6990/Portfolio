@@ -1,6 +1,0 @@
-C:\Users\kamam\Desktop\test\pract10\pract10\bin\Debug\pract10.dll
-C:\Users\kamam\Desktop\test\pract10\pract10\bin\Debug\pract10.pdb
-C:\Users\kamam\Desktop\test\pract10\pract10\obj\Debug\pract10.csproj.AssemblyReference.cache
-C:\Users\kamam\Desktop\test\pract10\pract10\obj\Debug\pract10.csproj.CoreCompileInputs.cache
-C:\Users\kamam\Desktop\test\pract10\pract10\obj\Debug\pract10.dll
-C:\Users\kamam\Desktop\test\pract10\pract10\obj\Debug\pract10.pdb
