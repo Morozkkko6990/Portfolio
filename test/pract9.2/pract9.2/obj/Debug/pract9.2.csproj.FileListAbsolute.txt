@@ -1,0 +1,6 @@
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\bin\Debug\pract9.2.dll
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\bin\Debug\pract9.2.pdb
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\obj\Debug\pract9.2.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\obj\Debug\pract9.2.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\obj\Debug\pract9.2.dll
+C:\Users\kamam\Desktop\test\pract9.2\pract9.2\obj\Debug\pract9.2.pdb

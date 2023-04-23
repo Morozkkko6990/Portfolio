@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Warehoyse1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Byer">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="150" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deals" Relationship="Self.FK_Deals_Byers" FromRole="Byers" ToRole="Deals" />
+  </EntityType>
+  <EntityType Name="Deal">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="150" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ByersName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Count" Type="Int32" Nullable="false" />
+    <Property Name="Summa" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <NavigationProperty Name="Byer" Relationship="Self.FK_Deals_Byers" FromRole="Deals" ToRole="Byers" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_Deals_Products" FromRole="Deals" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Measurnament">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Products_Measurnament1" FromRole="Measurnament" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="150" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Count" Type="Int32" Nullable="false" />
+    <Property Name="MeasurnamentName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ProviderName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="PurchasePprice" Type="Int32" Nullable="false" />
+    <Property Name="SellingPrice" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deals" Relationship="Self.FK_Deals_Products" FromRole="Products" ToRole="Deals" />
+    <NavigationProperty Name="Measurnament" Relationship="Self.FK_Products_Measurnament1" FromRole="Products" ToRole="Measurnament" />
+    <NavigationProperty Name="Provider" Relationship="Self.FK_Products_Provider1" FromRole="Products" ToRole="Provider" />
+  </EntityType>
+  <EntityType Name="Provider">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="150" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Products_Provider1" FromRole="Provider" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Deals_Byers">
+    <End Role="Byers" Type="Self.Byer" Multiplicity="1" />
+    <End Role="Deals" Type="Self.Deal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Byers">
+        <PropertyRef Name="Name" />
+      </Principal>
+      <Dependent Role="Deals">
+        <PropertyRef Name="ByersName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Deals_Products">
+    <End Role="Products" Type="Self.Product" Multiplicity="1" />
+    <End Role="Deals" Type="Self.Deal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Name" />
+      </Principal>
+      <Dependent Role="Deals">
+        <PropertyRef Name="ProductName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_Measurnament1">
+    <End Role="Measurnament" Type="Self.Measurnament" Multiplicity="1" />
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Measurnament">
+        <PropertyRef Name="Name" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="MeasurnamentName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_Provider1">
+    <End Role="Provider" Type="Self.Provider" Multiplicity="1" />
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Provider">
+        <PropertyRef Name="Name" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="ProviderName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Warehoyse1Entities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Byers" EntityType="Self.Byer" />
+    <EntitySet Name="Deals" EntityType="Self.Deal" />
+    <EntitySet Name="Measurnaments" EntityType="Self.Measurnament" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Providers" EntityType="Self.Provider" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Deals_Byers" Association="Self.FK_Deals_Byers">
+      <End Role="Byers" EntitySet="Byers" />
+      <End Role="Deals" EntitySet="Deals" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Deals_Products" Association="Self.FK_Deals_Products">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Deals" EntitySet="Deals" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_Measurnament1" Association="Self.FK_Products_Measurnament1">
+      <End Role="Measurnament" EntitySet="Measurnaments" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_Provider1" Association="Self.FK_Products_Provider1">
+      <End Role="Provider" EntitySet="Providers" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
