@@ -1,0 +1,101 @@
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.cache
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.lref
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\Optovik.exe.config
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\Optovik.exe
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\Optovik.pdb
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.g.resources
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.Properties.Resources.resources
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.exe
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.pdb
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\EntityFramework.dll
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\EntityFramework.xml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik.csproj.CopyComplete
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Osnova.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Osnova.baml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Optovik_Content.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\DealsAdd.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\DealsAdd.baml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\ProductsAdd.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\ProductsAdd.baml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Byers.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\ProviderAdd.g.cs
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\Byers.baml
+C:\Users\kamam\Desktop\практика\Optovik\Optovik\obj\Debug\ProviderAdd.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\Optovik.exe.config
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\Optovik.exe
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\Optovik.pdb
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\EntityFramework.dll
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\EntityFramework.xml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Byers.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\DealsAdd.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Osnova.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\ProductsAdd.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\ProviderAdd.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik_Content.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.cache
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.lref
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Byers.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\DealsAdd.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Osnova.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\ProductsAdd.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\ProviderAdd.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.g.resources
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.Properties.Resources.resources
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.csproj.CopyComplete
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.exe
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Optovik.pdb
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Sign_in.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Sign_up.g.cs
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Sign_in.baml
+C:\Users\kamam\Desktop\трпо практика1\Optovik\Optovik\obj\Debug\Sign_up.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\Optovik.exe.config
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\Optovik.exe
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\Optovik.pdb
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\EntityFramework.dll
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\EntityFramework.xml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.csproj.AssemblyReference.cache
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Byers.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\DealsAdd.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Osnova.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\ProductsAdd.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\ProviderAdd.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Sign_in.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Sign_up.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\App.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik_Content.g.cs
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.cache
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik_MarkupCompile.lref
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Byers.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\DealsAdd.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Osnova.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\ProductsAdd.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\ProviderAdd.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Sign_in.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Sign_up.baml
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.g.resources
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.Properties.Resources.resources
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.csproj.GenerateResource.cache
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.csproj.CoreCompileInputs.cache
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.csproj.CopyComplete
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.exe
+C:\Users\kamam\Desktop\ТРПО\Практика1 ТРПО\Optovik\Optovik\obj\Debug\Optovik.pdb

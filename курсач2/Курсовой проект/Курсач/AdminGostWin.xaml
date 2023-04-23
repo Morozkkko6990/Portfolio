@@ -1,0 +1,57 @@
+﻿<Window x:Class="Курсач.AdminGostWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Курсач"
+        mc:Ignorable="d"
+        Title="AdminGostWin" Height="450" Width="800" WindowStartupLocation="CenterScreen" Icon="Image/икона.PNG">
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="bt1">
+            <Setter Property="Foreground" Value="#FFFF"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
+            <Setter Property="FontSize" Value="19"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="250"/>
+            <Setter Property="Background" Value="#FFB2B6DC"/>
+            <Setter Property="BorderBrush" Value="#FFB2B6DC"/>
+            <Setter Property="Margin" Value="15"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Foreground" Value="#FFB2B6DC"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
+            <Setter Property="FontSize" Value="19"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FFB2B6DC"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="#FFB2B6DC">
+            <Button HorizontalAlignment="Right" Click="Button_Click_1">
+                Назад
+            </Button>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <DataGrid x:Name="DataG_Users" Height="300" AutoGenerateColumns="False" ColumnWidth="*">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Логин" Binding="{Binding login}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Пароль" Binding="{Binding password}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Роль" Binding="{Binding role}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Background="#FFB2B6DC">
+
+        </StackPanel>
+    </Grid>
+</Window>
